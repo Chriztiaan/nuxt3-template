@@ -2,6 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@mdi/font': ^7.2.96
+  '@mdi/js': ^7.2.96
   '@pinia/nuxt': ^0.4.7
   nuxt: ^3.3.2
   sass: ^1.60.0
@@ -14,6 +15,7 @@ dependencies:
 
 devDependencies:
   '@mdi/font': 7.2.96
+  '@mdi/js': 7.2.96
   nuxt: 3.3.2_sass@1.60.0
 
 packages:
@@ -571,6 +573,10 @@ packages:
 
   /@mdi/font/7.2.96:
     resolution: {integrity: sha512-e//lmkmpFUMZKhmCY9zdjRe4zNXfbOIJnn6xveHbaV2kSw5aJ5dLXUxcRt1Gxfi7ZYpFLUWlkG2MGSFAiqAu7w==}
+    dev: true
+
+  /@mdi/js/7.2.96:
+    resolution: {integrity: sha512-paR9M9ZT7rKbh2boksNUynuSZMHhqRYnEZOm/KrZTjQ4/FzyhjLHuvw/8XYzP+E7fS4+/Ms/82EN1pl/OFsiIA==}
     dev: true
 
   /@netlify/functions/1.4.0:

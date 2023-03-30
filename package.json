@@ -9,7 +9,7 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@mdi/font": "^7.2.96",
+    "@mdi/js": "^7.2.96",
     "nuxt": "^3.3.2"
   },
   "dependencies": {
