@@ -1,5 +1,5 @@
 <template>
     <div>
-        Default page
+        Home++
     </div>
 </template>
