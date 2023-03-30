@@ -1,7 +1,6 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@mdi/font': ^7.2.96
   '@mdi/js': ^7.2.96
   '@pinia/nuxt': ^0.4.7
   nuxt: ^3.3.2
@@ -14,7 +13,6 @@ dependencies:
   vuetify: 3.1.12
 
 devDependencies:
-  '@mdi/font': 7.2.96
   '@mdi/js': 7.2.96
   nuxt: 3.3.2_sass@1.60.0
 
@@ -569,10 +567,6 @@ packages:
     transitivePeerDependencies:
       - encoding
       - supports-color
-    dev: true
-
-  /@mdi/font/7.2.96:
-    resolution: {integrity: sha512-e//lmkmpFUMZKhmCY9zdjRe4zNXfbOIJnn6xveHbaV2kSw5aJ5dLXUxcRt1Gxfi7ZYpFLUWlkG2MGSFAiqAu7w==}
     dev: true
 
   /@mdi/js/7.2.96:
